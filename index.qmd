@@ -1,0 +1,30 @@
+---
+title: "Establishing a Research Workflow"
+subtitle: "Tools and Tips for Generating High-Impact Educational Research"
+author: Jennifer Houchins
+institute: WestEd
+format:
+  revealjs: 
+    slide-number: true
+    progress: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    theme: moon
+    width: 1920
+    height: 1080
+    margin: 0.05
+title-slide-attributes:
+  data-background-image: /path/to/title_image.png
+  data-background-size: contain
+  data-background-opacity: "0.5"
+---
+## Agenda
+
+## Literature Management
+
+## Tools for Analysis
+
+## About Jennifer
+
+
