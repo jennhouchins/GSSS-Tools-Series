@@ -111,10 +111,28 @@ Qualitative Tools
 ## Tips
 
 - Documentation: "Be Kind to the Future You"
+  - Keep a research log/journal (paper or electronic, whatever works for you!)
   - The decision, the rationale, the date
   - Research questions that arise while reading
+  - Random noticings, wonderings, etc while doing analysis
 - Networking and Collaboration
   - Find friends outside of your program/focus area!
+
+
+## {.center}
+
+::: {.r-fit-text}
+Questions??
+:::
+
+## Let's Connect {.center}
+
+
+{{< fa brands twitter >}} [@TooSweetGeek](https://twitter.com/TooSweetGeek)
+
+
+{{< fa brands linkedin >}} [https://www.linkedin.com/in/jenniferkhouchins/](https://www.linkedin.com/in/jenniferkhouchins/)
+
 
 
 
