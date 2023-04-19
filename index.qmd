@@ -134,12 +134,12 @@ Questions??
 ## Let's Connect {.center}
 
 
-{{< fa brands twitter >}} [@TooSweetGeek](https://twitter.com/TooSweetGeek)
+{{< fa brands twitter >}} &nbsp;&nbsp; [@TooSweetGeek](https://twitter.com/TooSweetGeek)
 
 
-{{< fa brands linkedin >}} [https://www.linkedin.com/in/jenniferkhouchins/](https://www.linkedin.com/in/jenniferkhouchins/)
+{{< fa brands linkedin >}} &nbsp;&nbsp; [https://www.linkedin.com/in/jenniferkhouchins/](https://www.linkedin.com/in/jenniferkhouchins/)
 
-
+{{< fa envelope >}} &nbsp;&nbsp; [jennifer.houchins@wested.org](mailto:jennifer.houchins@wested.org)
 
 
 
