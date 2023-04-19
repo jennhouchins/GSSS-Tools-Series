@@ -11,20 +11,111 @@ format:
       buttons: false
     preview-links: auto
     theme: moon
-    width: 1920
-    height: 1080
     margin: 0.05
+    footer: <a href=https://jenniferkhouchins.com/>Jennifer K. Houchins
 title-slide-attributes:
   data-background-image: /path/to/title_image.png
   data-background-size: contain
   data-background-opacity: "0.5"
 ---
+
+## About Me
+:::{.columns}
+:::{.column width="75%"}
+
+- Research Associate II, CS Education at WestEd
+- Most recently, Director of Technology Programs at the Friday Institute
+- Former software engineer and informal educator
+- First generation college student with multiple (invisible) disabilities
+- Defending next month!
+
+:::
+:::{.column width="25%"}
+
+![](img/Jenn_April2023.jpg){.absolute top=150 height="50%" style="border-radius: 230px;"}
+:::
+
+:::
+
+
+## {.center}
+
+::: {.r-fit-text}
+Things I wish I had known when I first started my PhD journey...
+:::
+
 ## Agenda
+
+:::{.columns}
+
+:::{.column width=50%}
+Tools
+
+- Literature Management
+- Reference Management
+- Project Management
+- Analysis
+
+:::
+:::{.column width=50%}
+Tips
+
+- Documentation
+- Networking and Collaboration
+
+
+:::
+:::
 
 ## Literature Management
 
+- [Zotero Reference Manager](https://www.zotero.org/)
+- [Research Rabbit](https://researchrabbitapp.com/)
+- [Literature Review Notes and Annotations Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeONOMWMAsHdj7yhXSzWWz_0V0lCHafszZsAwhYn-F4CD1pJg/viewform)
+
+
+## Project Management
+
+![[Trello](https://trello.com/)](img/trello.png)
+
 ## Tools for Analysis
 
-## About Jennifer
+_**Learn how to use more than one tool!**_
+
+:::{.columns}
+:::{.column width=50%}
+Quantitative Tools
+
+- [Stata](https://www.stata.com/)
+- [SPSS](https://www.ibm.com/products/spss-statistics/pricing)
+- [SAS](https://www.sas.com/en_us/software/stat.html)
+- [Dedoose](https://www.dedoose.com/)
+- [**R**](https://www.r-project.org/)
+:::
+:::{.column width=50%}
+Qualitative Tools
+
+- [nVivo](https://lumivero.com/products/nvivo/#:~:text=What%20is%20NVivo%3F,from%20their%20qualitative%20data%20faster.)
+- [Atlas.ti](https://atlasti.com/student-licenses)
+- [MAXQDA](https://www.maxqda.com/)
+- [Dedoose](https://www.dedoose.com/)
+- [**R**](https://www.r-project.org/)
+:::
+:::
+
+## Data Managment
+
+- [Data Management in Large-Scale Education Research](https://datamgmtinedresearch.com/index.html)
+- [Previous version of the above](https://cghlewis.github.io/mpsi-data-training/)
+
+## Tips
+
+- Documentation: "Be Kind to the Future You"
+  - The decision, the rationale, the date
+  - Research questions that arise while reading
+- Networking and Collaboration
+  - Find friends outside of your program/focus area!
+
+
 
 
