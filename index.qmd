@@ -72,6 +72,7 @@ Tips
 - [Zotero Reference Manager](https://www.zotero.org/)
 - [Research Rabbit](https://researchrabbitapp.com/)
 - [Literature Review Notes and Annotations Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeONOMWMAsHdj7yhXSzWWz_0V0lCHafszZsAwhYn-F4CD1pJg/viewform)
+- [Hypothes.is](https://web.hypothes.is/)
 
 ## {.center}
 
